@@ -22,16 +22,29 @@ There are some rules which are applicable to all the C Programs.
 Important Notes:-
 
 a. We can use switch-case statements even by writing cases in any order of our choice (not necessarily ascending).
+
 b. Char values are allowed as they can be easily evaluated to any inetger.
+
 c. A Switch can occur within another but in practice this is rarely done.
+
 d. Sometimes the name of the variable might not indicate the behaviour of the program.
+
 e. Break statement completely exits the loop.
+
 f. Continue statements skip the particular iteration of the loop.
+
 g. Recursion is sometimes the most direct way to code an algorithm.
+
 h. The condition which doesn't call the function any further in a recursive function is called as the base condition.
+
 i. Sometimes, due to a mistake made by the programmers a recursive function can keep running without returning resulting in a memory error.
+
 j. It is very important to note that the array index starts with 0.
+
 k. The string should be short enough to fit into the array.
+
 l. Scanf cannot be used to input multi-word strings with spaces.
+
 m. Once a string is defined using char st[]="abc", it cannot be reinitialized to something else.
+
 n. A string defined using pointers can be reinitialized ptr="abc";
