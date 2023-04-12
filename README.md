@@ -37,7 +37,7 @@ g. Recursion is sometimes the most direct way to code an algorithm.
 
 h. The condition which doesn't call the function any further in a recursive function is called as the base condition.
 
-i. Sometimes, due to a mistake made by the programmers a recursive function can keep running without returning resulting in a memory error.
+i. Sometimes, due to a mistake made by the programmers a recursive function can keep running without returning   resulting in a memory error.
 
 j. It is very important to note that the array index starts with 0.
 
